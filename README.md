@@ -1,1 +1,2 @@
-# TypeScript
+# Learning Notes for TypeScript
+
